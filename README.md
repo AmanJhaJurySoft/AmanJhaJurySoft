@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leaderamanjha&label=Profile%20views&color=0e75b6&style=flat" alt="leaderamanjha" /> </p>
 
-- 🔭 I’m currently working on [MyKanjee App](https://github.com/leaderamanjha/mykanjeeapp.app)
+- 🔭 I’m currently working on [MyKanjee App]
 
 - 🌱 I’m currently learning **NodeJS, MongoDB**
 
