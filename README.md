@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aman-kumar-jha-154a561b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-jha-154a561b8" height="30" width="40" /></a>
 <a href="https://kaggle.com/aman kumar jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aman kumar jha" height="30" width="40" /></a>
-<a href="https://instagram.com/learder_aman_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learder_aman_jha" height="30" width="40" /></a>
+<a href="https://instagram.com/learder_aman_jha" target="blank"><img align="center"*" alt="learder_aman_jha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
